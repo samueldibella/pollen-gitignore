@@ -11,7 +11,7 @@ compiled/
 !*.html.*
 
 # And keeping template html files
-!template.html
+!template.html.p
 
 #####################################################################
 #####              Racket section from racket/racket            #####
