@@ -10,6 +10,9 @@ compiled/
 !*.md.*
 !*.html.*
 
+# And keeping template html files
+!template.html
+
 #####################################################################
 #####              Racket section from racket/racket            #####
 #### Drawn from commit 7e497db831de1010920c03ef28eb449c0df3d5f8 #####
